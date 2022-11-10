@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="62.781498mm"
+   height="8.9916706mm"
+   viewBox="0 0 62.781498 8.9916706"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bluethoothify.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.4445006"
+     inkscape:cx="55.226004"
+     inkscape:cy="100.22497"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect6135"
+       is_visible="true"
+       lpeversion="1"
+       direction="41.695718,161.97786 , 0.18814141,1.5026936"
+       dist_rdm="75;1"
+       growth="0"
+       do_bend="true"
+       bender="39.56116,163.66883 , 1.0297724,1.3010822"
+       bottom_edge_variation="0.76946;1"
+       top_edge_variation="0.76946;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect6133"
+       is_visible="true"
+       lpeversion="1"
+       teeth="15"
+       phi="5"
+       min_radius="5.4" />
+    <inkscape:path-effect
+       effect="interpolate_points"
+       id="path-effect6051"
+       is_visible="true"
+       lpeversion="1"
+       interpolator_type="Linear" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect2471"
+       is_visible="true"
+       lpeversion="1"
+       direction="38.557803,160.21757 , 6.3691,0"
+       dist_rdm="64.7;1"
+       growth="0"
+       do_bend="true"
+       bender="38.557803,165.21757 , 5,0"
+       bottom_edge_variation="-2.53;1"
+       top_edge_variation="-9.53;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.21073664,-166.36089)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-0.4329446"
+       y="173.50255"
+       id="text7132"><tspan
+         sodipodi:role="line"
+         id="tspan7130"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#ffffff"
+         x="-0.4329446"
+         y="173.50255">Bluetoothify</tspan></text>
+  </g>
+</svg>
